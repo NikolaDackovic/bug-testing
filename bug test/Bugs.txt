@@ -1,0 +1,72 @@
+Bug 1
+1.Summary
+TL/PC/BLOODWOOD/Music volume slider in Options menu does not change the music volume.
+2.Description
+In the Options menu, the music volume slider is unresponsive. Adjusting the slider to increase or decrease the music volume has no effect, and the music continues to play at the same volume regardless of the setting.”
+3.Steps to Reproduce:
+
+1. Launch the game Bloodwood Reload.
+2. Navigate to the Options menu.
+3. Locate the Music Volume slider.
+4. Adjust the slider to any position
+5. Observe the music volume.
+
+4.Observed Result:
+The music volume remains unchanged regardless of the slider’s position
+
+==============================================================
+bug2
+1.Summary:
+TL/PC/BLOODWOOD/GRAPHIC/House and walls disappear while walking through the propery
+2.Description:
+While exploring the property in the game, the house and its walls vanish unexpectedly. This leaves the interior exposed and gives the appearance of an empty space. The issue disrupts immersion and affects gameplay.
+3. Steps to Reproduce:
+1. Launch Bloodwood Reload and load into the game
+2. Walk around the property, near the house
+3. Observe the house and its walls as you move closer or farther away.
+
+4. Observed Result:
+The house and walls disappear entirely, leaving only empty space where the building should be.
+
+
+======================================================
+bug3
+1.Summary:
+TL/PC/BLOODWOOD/Smoke is emitted from the roof of the house instead of the chimney.
+2.Description:
+When looking at the house, the smoke that should be coming out of the chimney instead comes out of the roof. This looks unrealistic and breaks immersion.
+3.Steps to Reproduce:
+1.Launch Bloodwood Reload and navigate to the house.
+2.Look up at the roof of the house.
+3.Observe the position of the smoke relative to the chimney.
+4.Observed Result:
+Smoke appears to be coming from the middle of the roof instead of the chimney
+
+=======================================================
+bug4
+1.Summary:
+TL/PC/BLOODWOOD/Farmer’s walking animation plays, but he remains stationary in the stable.
+2.Description:
+When approaching the stable, the farmer character appears to be walking, as his feet are moving, but he remains in the same spot. This creates an unnatural and confusing visual experience.
+3.Steps to Reproduce:
+1.Launch Bloodwood Reload and navigate to the stable
+2.Observe the farmer character.
+3.Note his walking animation and whether he moves from his position.
+4.Observed Result:
+The farmer’s feet are moving as if he's walking, but he stays in the same spot without any actual movement.
+
+===========================================================
+bug5
+1.Summary:
+TL/PC/BLOODWOOD/Game screen is misaligned and not centered when using 1280x1024 resolution.
+2.Description:
+When selecting the 1280x1024 screen resolution in the game settings, the picture is not properly centered. Parts of the game screen are cut off, making it impossible to see all elements.
+3.Steps to Reproduce:
+
+1.Launch Bloodwood Reload.
+2.Go to the Options menu and select Screen Format.
+3.Set the resolution to 1280x1024
+4.Observe the game screen alignment
+	
+4.Observed Result:
+The game screen is misaligned, not centered, and parts of the display are cut off, making some elements inaccessible
